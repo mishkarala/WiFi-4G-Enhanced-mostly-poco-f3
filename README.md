@@ -1,6 +1,6 @@
 # Wi‑Fi | 4G Enhanced – Magisk Module
 
-**Universal network tweak for Android 11–14: faster Wi‑Fi, lower ping, stable VPN.**
+**Universal network tweak for Android 11+: faster Wi‑Fi, lower ping, stable VPN.**
 
 ## Features
 - TCP buffer optimizations for LTE / Wi‑Fi / VPN
