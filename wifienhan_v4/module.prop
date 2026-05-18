@@ -1,0 +1,7 @@
+id=wifienhan
+name=Wi-Fi | 4G Enhanced v4
+version=v4.0
+versionCode=400
+author=Resbet
+description=Adaptive Android 13-16 network optimizer for Qualcomm & MediaTek devices
+updateJson=https://raw.githubusercontent.com/mishkarala/WiFi-4G-Enhanced-mostly-poco-f3/refs/heads/main/update.json

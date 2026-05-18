@@ -1,0 +1,21 @@
+# ===== IMS =====
+persist.dbg.volte_avail_ovr=1
+persist.dbg.vt_avail_ovr=1
+persist.vendor.radio.enable_voiwifi=1
+persist.vendor.radio.vowifi_enable=1
+persist.vendor.radio.enable_voLTE=1
+
+# ===== IWLAN =====
+persist.vendor.data.iwlan.enable=true
+
+# ===== Network =====
+persist.radio.calls.on.ims=1
+persist.radio.data_con_rprt=1
+
+# ===== TCP =====
+net.tcp.default_init_rwnd=60
+
+# ===== Modern conservative TCP buffers =====
+net.tcp.buffersize.default=4096,87380,1048576,4096,65536,1048576
+net.tcp.buffersize.wifi=524288,1048576,2097152,524288,1048576,2097152
+net.tcp.buffersize.lte=262144,524288,1048576,262144,524288,1048576
